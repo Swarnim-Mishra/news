@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Reuters",
+            "title": "Microsoft Exposed Cloud Database: Researchers, Cybersecurity Agency Urge Users to Change Digital Access K... - Gadgets 360",
+            "description": "Researchers who discovered a massive flaw in the main databases stored in Microsoft's Azure cloud platform urged all users to change their digital access keys, not just the 3,300 it notified this week.",
+            "url": "https://gadgets.ndtv.com/internet/news/microsoft-azure-cosmos-cloud-database-leak-expose-details-users-change-digital-access-keys-2523413",
+            "urlToImage": "https://i.gadgets360cdn.com/large/microsoft_logo_main_reuters_1627450285328.jpg",
+            "publishedAt": "2021-08-30T06:23:09Z",
+            "content": "Researchers who discovered a massive flaw in the main databases stored in Microsoft's Azure cloud platform on Saturday urged all users to change their digital access keys, not just the 3,300 it notif… [+2497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "‘Don’t be scared’: Afghan TV anchor relays Taliban message surrounded by armed fighters - Hindustan Times",
+            "description": "Taliban fighters killed a relative of one of its journalists while hunting for him, German public broadcaster Deutsche Welle said last Thursday. | World News",
+            "url": "https://www.hindustantimes.com/world-news/afghan-tv-anchor-relays-taliban-message-surrounded-by-armed-fighters-101630302158609.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/08/30/1600x900/Taliban_Afghan_TV_Afghanistan_1630302579926_1630302594114.png",
+            "publishedAt": "2021-08-30T05:55:33Z",
+            "content": "A video of a television anchor surrounded by armed Taliban fighters is being widely shared on social media even as the hardline Islamist group has assured freedom of the press and said people should … [+3654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times, India Edition"
+            },
+            "author": "Nirmal Narayanan",
+            "title": "New Zealand reports first death related to Covid vaccine, Myocarditis was the side effect - IBTimes India",
+            "description": "New Zealand is currently witnessing a fresh outbreak of the Covid pandemic primarily driven by the Delta variant",
+            "url": "https://www.ibtimes.co.in/new-zealand-reports-first-death-related-covid-vaccine-myocarditis-was-side-effect-840233",
+            "urlToImage": "https://data1.ibtimes.co.in/en/full/764432/covid-vaccine.jpg",
+            "publishedAt": "2021-08-30T05:50:31Z",
+            "content": "Covid Delta variant: Two vaccine shots may be ineffective, booster shots needed\r\nAs the coronavirus vaccination rollout is progressing steadily in almost all countries, New Zealand has officially rep… [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "A Box Stuck In China For 8 Months Shows Global Supply Chain Crisis - NDTV",
+            "description": "Somewhere in the world's busiest port of Shanghai, a container of fertilizer sits among tens of thousands of boxes, waiting for a ride to the U.S.",
+            "url": "https://www.ndtv.com/world-news/american-ordered-8-boxes-of-fertiliser-in-feb-a-box-is-still-in-china-2523379",
+            "urlToImage": "https://c.ndtvimg.com/2021-08/gmj9uhm8_china-port_625x300_12_August_21.jpg",
+            "publishedAt": "2021-08-30T05:44:42Z",
+            "content": "The box has been on the dock for months in China's busiest port of Shanghai. (File)\r\nSomewhere in the world's busiest port of Shanghai, a container of fertilizer sits among tens of thousands of boxes… [+6826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Rockets Fired At Kabul Airport, Intercepted By Missile Defence System - NDTV",
+            "description": "Rockets were fired at Kabul's airport on Monday where US troops were racing to complete their withdrawal from Afghanistan and evacuate allies under the threat of ISIS group attacks.",
+            "url": "https://www.ndtv.com/world-news/several-rockets-heard-flying-over-kabul-targets-unclear-says-news-agency-afp-hours-after-us-drone-strike-targeted-car-bomb-2523220",
+            "urlToImage": "https://c.ndtvimg.com/2021-08/q60n0g6o_kabul-airport-afp-_625x300_21_August_21.jpg",
+            "publishedAt": "2021-08-30T05:43:40Z",
+            "content": "Several rockets had been fired at airport, according to witnesses and security sources. (File)\r\nKabul, Afghanistan: Rockets were fired at Kabul's airport on Monday where US troops were racing to comp… [+4456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Tasneem Akolawala",
+            "title": "Realme C21Y Goes on Sale in India via Flipkart, Realme.com Today: Price in India, Offers, Specifications - Gadgets 360",
+            "description": "Realme C21Y will go on sale today. It will be available via Flipkart and Realme.com. The sale will begin at 12pm (noon) and the phone will be available in Cross Black and Cross Blue colours. Realme C21Y is priced starting at Rs. 8,999.",
+            "url": "https://gadgets.ndtv.com/mobiles/news/realme-c21y-sale-today-price-in-india-rs-8999-9999-flipkart-specifications-2523373",
+            "urlToImage": "https://i.gadgets360cdn.com/large/Realme_C21Y_launch_1626332301886.jpg",
+            "publishedAt": "2021-08-30T05:41:10Z",
+            "content": "Realme C21Y is all set to go on sale in India today. The phone comes with a triple camera setup on the back and packs a 5,000mAh battery. It is powered by the Unisoc T610 SoC and features a waterdrop… [+1897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Maruti Suzuki hikes prices of all models due to increasing input costs - Mint",
+            "description": "Maruti Suzuki has not specified the rate of these hikes to be implemented next month.",
+            "url": "https://www.livemint.com/companies/news/maruti-suzuki-hikes-prices-of-all-models-due-to-rise-in-input-costs-11630300673500.html",
+            "urlToImage": "https://images.livemint.com/img/2021/08/30/600x338/2021-07-28T095829Z_990155328_RC2LTO9KYHG0_RTRMADP_3_MARUTI-SUZUKI-INDIA-RESULTS_1627804906699_1630300810934.JPG",
+            "publishedAt": "2021-08-30T05:23:51Z",
+            "content": "Maruti Suzuki is all set to increase the prices of its vehicles from September due to the increase in input costs. India's largest car manufacturer made the announcement in a regulatory filing today."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Sports Desk",
+            "title": "Paralympics 2020: Avani Lekhara wins gold in shooting, Yogesh clinches silver in discus throw - The Indian Express",
+            "description": "Historic day for India at Paralympics 2020 as shooter Avani Lekhara finishes on top to clinch gold and discus thrower Yogesh Kathuniya bags silver.",
+            "url": "https://indianexpress.com/article/sports/sport-others/avani-lekhara-wins-indias-first-paralympic-gold-in-shooting-7477414/",
+            "urlToImage": "https://images.indianexpress.com/2021/08/Untitled-design-20-2.jpg",
+            "publishedAt": "2021-08-30T05:19:21Z",
+            "content": "Indian paralympic shooter Avani Lekhara won country’s first gold medal in shooting at the Tokyo Paralympics in the womens 10m air rifle standing SH1 event on Monday. While making India proud, India’s… [+3674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Kislaya Srivastava",
+            "title": "\"Special Moment For Indian Sports\": PM Modi After Avani Lekhara Wins Paralympic Gold | Olympics News - NDTVSports.com",
+            "description": "Tokyo Paralympics: Reactions poured in for para shooter Avani Lekhara who became the first Indian woman to win a gold at the Paralympic Games.",
+            "url": "https://sports.ndtv.com/olympics-2020/special-moment-for-indian-sports-pm-modi-after-avani-lekhara-wins-paralympic-gold-2523300",
+            "urlToImage": "https://c.ndtvimg.com/2021-08/clr1eis8_avani-lekhara-twitter-_625x300_30_August_21.jpg",
+            "publishedAt": "2021-08-30T05:03:00Z",
+            "content": "Shooter Avani Lekhara became the first Indian woman to win a gold medal at the Paralympics when she clinched the top spot with a world record-equalling score of 249.6 at the Tokyo Paralympics on Mond… [+3340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sutirtho Patranobis I Edited by Amit Chanda",
+            "title": "World needs to guide the Taliban in Afghanistan, China tells US - Hindustan Times",
+            "description": "Wang warned Blinken that the “hasty withdrawal” of international troops could allow terrorist groups to “regroup and come back stronger”. | World News",
+            "url": "https://www.hindustantimes.com/world-news/world-needs-to-guide-the-taliban-in-afghanistan-china-tells-us-101630299402920.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/08/30/1600x900/64f8a620-094e-11ec-b7a3-060c0b7322b5_1630299401829.jpg",
+            "publishedAt": "2021-08-30T04:56:42Z",
+            "content": "The international community including the US should guide the Taliban in Afghanistan, provide economic and humanitarian aid, stop the Afghan currency from depreciating and help maintain social stabil… [+2925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Associated Press",
+            "title": "SpaceX Launches Ants, Avocados, Robot to International Space Station - Gadgets 360",
+            "description": "A SpaceX shipment of ants, avocados, and a human-sized robotic arm rocketed toward the International Space Station on Sunday.",
+            "url": "https://gadgets.ndtv.com/science/news/spacex-iss-international-space-station-falcon-nasa-delivery-ant-avocado-robot-2523338",
+            "urlToImage": "https://i.gadgets360cdn.com/large/nasa_cargo_twitter_1630298901345.jpg",
+            "publishedAt": "2021-08-30T04:55:43Z",
+            "content": "A SpaceX shipment of ants, avocados, and a human-sized robotic arm rocketed toward the International Space Station on Sunday.\r\nThe delivery due to arrive Monday is the company's 23rd for NASA in just… [+1768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News Desk",
+            "title": "When Was it Decided to Fight 2022 Polls Under Capt, Sidhu Camp MLA Asks, Slams 'Unfulfilled Poll Promises' - News18",
+            "description": "The crisis within the Punjab Congress continues as Punjab Congress’ General Secretary and MLA from Jalandhar Cantonment Pargat Singh had questioned Harish Rawat's statements backing CM Captain Amarinder Singh.",
+            "url": "https://www.news18.com/news/politics/pargat-singh-punjab-navjot-singh-sidhu-captain-amarinder-singh-4143083.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/08/untitled-design-89-163029852416x9.png",
+            "publishedAt": "2021-08-30T04:43:19Z",
+            "content": "The crisis within the Punjab Congress continues as Punjab Congress General Secretary and MLA from Jalandhar Cantonment Pargat Singh had questioned Harish Rawat’s statements backing CM Captain Amarind… [+2494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "The Empire director on GOT comparisons: 'They have dragons and zombies. How can people compare?' - Hindustan Times",
+            "description": "The Empire director Mitakshara Kumar has spoken on the comparisons being made between her show and Game of Thrones. | Web Series",
+            "url": "https://www.hindustantimes.com/entertainment/web-series/the-empire-director-on-got-comparisons-they-have-dragons-and-zombies-how-can-people-compare-101630296548696.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/08/30/1600x900/Screenshot_2021-08-30_at_9.45.44_AM_1630297067048_1630297078142.png",
+            "publishedAt": "2021-08-30T04:37:05Z",
+            "content": "The Empire director Mitakshara Kumar has addressed comparisons being made between the new series and HBO's hit show Game of Thrones. The Empire was released on Disney+ Hotstar earlier last week and m… [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News Desk",
+            "title": "Coronavirus News LIVE Updates: Covid Cases In India At 8-Week High After 32% Jump; Kerala Accounts For 2/3r - News18",
+            "description": "Coronavirus News LIVE Updates: Following the Onam celebrations, Covid-19 infections in India witnessed a massive surge resulting in the cases standing to an eight-week high, with the southern state alone accounting for 66% of all cases in the country in this …",
+            "url": "https://www.news18.com/news/india/coronavirus-news-live-updates-covid19-vaccine-delhi-india-cases-mumbai-janmashtami-tamil-nadu-cowin-uk-us-4142657.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/08/population-162920939916x9.jpg",
+            "publishedAt": "2021-08-30T04:33:41Z",
+            "content": "Coronavirus News LIVE Updates: Following the Onam celebrations, Covid-19 infections in India witnessed a massive surge resulting in the cases standing to an eight-week high, with the southern state a… [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Greatandhra.com"
+            },
+            "author": "GREATANDHRA BUREAU",
+            "title": "Pic Talk: Prabhas And Pooja Hegde Look Suave.. - Greatandhra.com",
+            "description": "Marking the occasion of Janmashtami, the makers of Radhe Shyam have unveiled a new poster of the film today.",
+            "url": "https://www.greatandhra.com/movies/news/pic-talk-prabhas-and-pooja-hegde-look-suave-115545",
+            "urlToImage": "https://www.greatandhra.com/newphotos10/radheshyam11630297994.jpeg",
+            "publishedAt": "2021-08-30T04:33:14Z",
+            "content": "Marking the occasion of Janmashtami, the makers of Radhe Shyam have unveiled a new poster of the film today. \r\nThe poster showcases the lead pair Prabhas and Pooja Hegde and they look suave. \r\nTuxedo… [+421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Tech Desk",
+            "title": "Apple’s iPhone 13 will support satellite connectivity, says Ming-Chi Kuo - The Indian Express",
+            "description": "The iPhone 13 may come with a feature which will allow you to make calls and send messages in areas lacking connectivity. Here is what it means.",
+            "url": "https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-13-satellite-connectivity-2021-7477511/",
+            "urlToImage": "https://images.indianexpress.com/2021/08/iPhone-12.jpeg",
+            "publishedAt": "2021-08-30T04:29:33Z",
+            "content": "Apple is expected to launch the iPhone 13 next month, but there’s one particular feature that has made us exciting. According to Apple analyst Ming-Chi Kuo and reported by MacRumors, the iPhone 13 ma… [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Bharti Airtel announces mega rights issue. Should you buy shares now? - Mint",
+            "description": "Bharti Airtel shares were trading over 1% higher to  ₹600 apiece on the BSE in Monday's early deals",
+            "url": "https://www.livemint.com/market/stock-market-news/bharti-airtel-announces-mega-rights-issue-should-you-buy-shares-now-11630294786504.html",
+            "urlToImage": "https://images.livemint.com/img/2021/08/30/600x338/HEALTH-CORONAVIRUS-INDIA-2_1630294953953_1630295858621.JPG",
+            "publishedAt": "2021-08-30T04:20:49Z",
+            "content": "Telecom service provider Bharti Airtel's board on Sunday approved raising up to 21,000 crore by way of rights issue, at a price of 535 per share amid plans to expand its network and prepare for the l… [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "ESPNcricinfo staff",
+            "title": "Stuart Binny retires from all cricket - ESPNcricinfo",
+            "description": "Allrounder played 23 matches for India, famously taking 6 for 4 in an ODI against Bangladesh in 2014",
+            "url": "https://www.espncricinfo.com/story/former-india-allrounder-stuart-binny-retires-from-all-cricket-1275355",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/221200/221265.5.jpg",
+            "publishedAt": "2021-08-30T04:14:00Z",
+            "content": "NewsAllrounder played 23 matches for India, famously taking 6 for 4 in an ODI against Bangladesh in 2014"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Tokyo Paralympics: Devendra Jhajharia, Sundar Gurjar win silver and bronze in javelin throw - Times of India",
+            "description": "Tokyo Paralympics News: Devendra Jhajharia, already India's greatest Paralympian after winning gold medals in the 2004 and 2016 Games, pulled off a new personal best throw of",
+            "url": "https://timesofindia.indiatimes.com/sports/tokyo-paralympics/tokyo-paralympics-devendra-jhajharia-sundar-gurjar-win-silver-and-bronze-in-javelin-throw/articleshow/85756671.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85756657,width-1070,height-580,imgsize-122644,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T04:02:00Z",
+            "content": "Superb performance by @DevJhajharia! One of our most experienced athletes wins a Silver medal. Devendra has been ma https://t.co/pEhEaUmlHx\r\n— Narendra Modi (@narendramodi) 1630295171000"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Samir Jain",
+            "title": "Horoscope Today, 30 August 2021: Check astrological prediction for Aries, Taurus, Gemini, Cancer and othe - Times of India",
+            "description": "Horoscope(Old) News: Good or bad, be prepared for all the crucial events coming your way.",
+            "url": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-30-august-2021-check-astrological-prediction-for-aries-taurus-gemini-cancer-and-other-signs/articleshow/85756104.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85756113,width-1070,height-580,imgsize-8754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T03:28:00Z",
+            "content": null
+        }
+    ]
+}
